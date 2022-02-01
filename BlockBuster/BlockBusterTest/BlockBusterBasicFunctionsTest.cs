@@ -31,5 +31,18 @@ namespace BlockBusterTest
             var result = BlockBusterBasicFunctions.GetAllCheckedOutMovies();
             Assert.True(result.Count == 3);
         }
+
+        [Fact] public void GetAllMoviesByGenreTest()
+        {
+            var result = BlockBusterBasicFunctions.GetAllMoviesByGenre("Comedy");
+            Assert.True(result.Count == 4);
+        }
+
+        [Fact]
+        public void GetAllMoviesByDirectorLastNameTest()
+        {
+            var result = BlockBusterBasicFunctions.GetAllMoviesByDirectorsLastName("Lucas");
+            Assert.True(result.Count == 1);
+        }
     }
 }
