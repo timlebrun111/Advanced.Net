@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NN/4zSb8fB0bohoNzKpYTjObdt+pvxy6BqFyW3Gxvl3ildnNF1xlGrGiveR0qU7W2aVirIlwzzY1yM+A9X0oTg==",
+  "dgSpecHash": "5ixGiAd+mb4q+K8LDGj6krXgKzmHXiwztf6OnvPlp5eQRft5Do/CnV7jZArRHuivJyaGVQOPNZQrfblL/IyyRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\timle\\Source\\Repos\\Advanced.Net\\BlockBuster\\BlockBuster\\BlockBuster.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\timle\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
     "C:\\Users\\timle\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\timle\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\timle\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

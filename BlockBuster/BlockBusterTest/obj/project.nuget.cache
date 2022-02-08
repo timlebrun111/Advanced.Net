@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "uIorF2ydQZvT7DcifeoMMMaZat456dTJT3hs88latovFte+yazbTMVCsiqUXK3i/c27+GjWcWGIfJ0xe8hvwVw==",
+  "dgSpecHash": "e/XfzH0Qpsp0QEnwBrTzawNxEKnCovmWQh6CSepBeMvIVQhf5AIo71/S4rKYp8Y4O9wbpfmhNe4NhPTZ0t/rcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\timle\\Source\\Repos\\Advanced.Net\\BlockBuster\\BlockBusterTest\\BlockBusterTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\timle\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\timle\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
     "C:\\Users\\timle\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\timle\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\timle\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
